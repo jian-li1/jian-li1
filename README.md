@@ -7,11 +7,12 @@ I have a strong passion for building innovative platforms and tools that enhance
 ## Skills
 - **Languages**: Python, JavaScript/Typescript, C, C++, Bash, SQL, Java, Kotlin, R
 - **Frontend**: React, Angular, Bootstrap, Tailwind CSS, shadcn/ui
-- **Backend**: Flask, Node.js, Express,
+- **Backend**: Flask, Node.js, Express
 - **Databases**: MongoDB, PostgreSQL, SQLite, Firebase, Firestore
 - **Cloud**: Google Cloud Platform (GCP)
 - **Developer Tools**: Git, Docker, VS Code, Android Studio
-- **AI/ML**: PyTorch, Hugging Face Transformers, OpenAI API, vLLM, LangChain, Chroma, TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib
+- **AI/ML**: PyTorch, Hugging Face Transformers, Model Context Protocol (MCP), OpenAI SDK, LangChain, Chroma, TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib
+- **LLM Inference**: llama.cpp, LM Studio, Ollama, vLLM
 
 
 <!--
